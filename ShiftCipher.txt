@@ -7,4 +7,4 @@ function rot13(str) {
   return final;
 }
 
-rot13("SERR PBQR PNZC");
+rot13("INPUT TEXT HERE");
